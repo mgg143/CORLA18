@@ -36,3 +36,8 @@ We provide an open-source reference implementation and exemplar calculations in 
 [Example Notebook 1](https://mybinder.org/v2/gh/pbstark/CORLA18/master?filepath=code%2Fhybrid-audit-example-1.ipynb)
 
 [Example Notebook 2](https://mybinder.org/v2/gh/pbstark/CORLA18/master?filepath=code%2Fhybrid-audit-example-2.ipynb)
+
+---
+Michael Govaerts:
+
+[VotingWorks Resources on Risk-Limiting Audits](https://risklimitingaudits.org/resources/)
